@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/creditcard.csv
+
+# Generated outputs
+results/*.png
+results/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
