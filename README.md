@@ -53,3 +53,10 @@ The project brief specifically emphasizes Precision, Recall and ROC-AUC rather t
 
 ## Reproducibility
 Random seed: `42`.
+
+👩‍💻 Author
+Rubina Parveen BS Data Science
+
+📜 Project
+Data Science Project 2 _Fraud_Detection
+
