@@ -21,19 +21,11 @@ Build a supervised-learning fraud detection pipeline for a highly imbalanced cre
 ## Dataset
 Credit Card Fraud Detection dataset. The supplied CSV is `creditcard.csv`.
 
-**Important GitHub note:** the dataset file is about 151 MB and therefore should not be committed to normal GitHub storage because GitHub blocks files over 100 MB. Put the CSV in `data/` locally, or use Git LFS if your instructor specifically requires the dataset in the repository.
-
 ## Folder structure
 ```text
 Fraud_Detection_Project_2/
-├── data/
-│   └── creditcard.csv          # place dataset here locally; not included in GitHub ZIP
-├── notebooks/
-│   └── Fraud_Detection_Project_2.ipynb
-├── reports/
-│   └── PROJECT_REPORT.md
-├── results/
-├── src/
+├──creditcard.csv          
+├── Fraud_Detection_Project_2.ipynb
 ├── .gitignore
 ├── requirements.txt
 └── README.md
@@ -42,8 +34,8 @@ Fraud_Detection_Project_2/
 ## How to run
 1. Install Python 3.
 2. Open Jupyter Notebook or JupyterLab.
-3. Put `creditcard.csv` inside the `data` folder.
-4. Open `notebooks/Fraud_Detection_Project_2.ipynb`.
+3. Put `creditcard.csv`
+4. Open `Fraud_Detection_Project_2.ipynb`.
 5. Run cells from top to bottom.
 
 ## Important methodology
